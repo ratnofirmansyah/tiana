@@ -1,0 +1,59 @@
+
+---Downloaded files---
+The import files for: most Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://127.0.0.1/tiana
+Data file = C:\xampp\htdocs\tiana/wp-content/uploads/2026/02/demo-content-import-file_2026-02-04__15-34-27.xml
+Widget file = C:\xampp\htdocs\tiana/wp-content/uploads/2026/02/demo-widgets-import-file_2026-02-04__15-34-27.json
+Customizer file = C:\xampp\htdocs\tiana/wp-content/uploads/2026/02/demo-customizer-import-file_2026-02-04__15-34-27.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "most_logo2_light" (Media)
+[ERROR] Failed to import "most_logo1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "align-vertically" (Media)
+[ERROR] Failed to import "code-1" (Media)
+[ERROR] Failed to import "video-play" (Media)
+[ERROR] Failed to import "camera" (Media)
+[ERROR] Failed to import "layer" (Media)
+[ERROR] Failed to import "code-2" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "elipse_bg_most" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Most: Recent Thumbnail Posts - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+Mailchimp Sign-Up Form - Newsletter - Imported
+
+Shop Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Products list - Products - Imported
+Product Categories - Product categories - Imported
+Product Tag Cloud - Product tags - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

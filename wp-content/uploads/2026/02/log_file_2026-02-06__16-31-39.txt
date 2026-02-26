@@ -1,0 +1,71 @@
+
+---Downloaded files---
+The import files for: Digtek were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://stg-tiana.rfirman.my.id
+Data file = /home/rfirmanm/subdomain/stg-tiana.rfirman.my.id/wp-content/plugins/digtek-core/demo-import/demo-data/content.xml
+Widget file = /home/rfirmanm/subdomain/stg-tiana.rfirman.my.id/wp-content/plugins/digtek-core/demo-import/demo-data/widgets.wie
+Customizer file = /home/rfirmanm/subdomain/stg-tiana.rfirman.my.id/wp-content/plugins/digtek-core/demo-import/demo-data/customize.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Digtek Post Search - Search - Imported
+Digtek:  Category - Category - Imported
+Digtek: Recent Posts with Thumbnails - Recent Posts - Imported
+Digtek: Tags - Tags - Imported
+
+Footer Menu Widget : 
+
+Navigation Menu - Quick Links - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

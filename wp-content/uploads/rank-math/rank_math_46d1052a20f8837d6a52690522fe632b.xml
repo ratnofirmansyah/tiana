@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//tiana-edu.co.id/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://tiana-edu.co.id/post-sitemap.xml</loc>
+		<lastmod>2026-02-19T13:57:17+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tiana-edu.co.id/page-sitemap.xml</loc>
+		<lastmod>2026-02-22T15:11:47+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tiana-edu.co.id/elementor-hf-sitemap.xml</loc>
+		<lastmod>2026-02-22T14:56:00+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tiana-edu.co.id/category-sitemap.xml</loc>
+		<lastmod>2026-02-19T13:57:17+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

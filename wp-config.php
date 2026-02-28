@@ -21,13 +21,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'rfirmanm_wp_tiana' );
+define( 'DB_NAME', 'tianaedu_webcompro' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'tianaedu_webcompro' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'Gb7^z4bna*$)p8JFFVz^pvqTP48Y1f5^' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost:3306' );
